@@ -1,0 +1,8 @@
+# Geo_General
+Este es un repositorio para el curso de Geología General de la Universidad de Costa Rica, con el objetivo de generar prácticas online
+
+1. Abra el archivo (dando click) buzamiento_aparente.ipynb
+2. Juegue con el notebook, puede cambiar los buzamientos real y cita (recordar que cita es el ángulo entre la direccin de rumbo y la línea de corte
+3. Si desconfigura el notebook, no pasa nada, cierre y vuelva a abrir el link
+
+LISTO
